@@ -24,6 +24,7 @@ int generateRamdomNumber(){
 }
 void insert(Nodo* n){
 	n->next = L;
+    //hola buenos dias
     //n2->next = L2;
 
 	L=n;
